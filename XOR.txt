@@ -1,0 +1,2 @@
+4/8/2020--HW
+definition:prove that XOR is non linear
