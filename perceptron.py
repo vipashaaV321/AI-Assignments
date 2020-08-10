@@ -17,7 +17,11 @@ class Perceptron(object):
         ##print(summation)
         #x=self.weights
         #print(x)
-
+        print("Inputs : ", inputs, end="\t")
+        print("Labels : ", label)
+        print("Outputs : ", prediction)
+        print("Weights : ", self.weights[1:])
+        print("Bais : ", self.weights[0])        
         if summation>0:
             activation=1
         else:
