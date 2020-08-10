@@ -1,0 +1,8 @@
+4/8/2020--HW
+definition:prove that XOR is non linear
+7/8/2020--HW
+definition--HW
+1. Minimum threshold at which there is no error. 
+2. Bais and weight printed for each training cycle.
+3. What is a effect of change in learning rate? 
+4. Take a 3 input and train for 6 input set and predict for rest 2.
